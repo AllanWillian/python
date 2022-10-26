@@ -1,13 +1,16 @@
-a = input("digite o primeiro numero")
-b = input("digite o segundo numero")
+#CODIGO CALCULADORA
+
+a = input("digite o primeiro numero:")
+b = input("digite o segundo numero:")
+
 soma = (int(a)+int(b))
-print(soma)
+print("valor somado é:", soma)
 
 subtracao = (int(a)-int(b))
-print (subtracao)
+print ("valor subtraido é:", subtracao)
 
 multiplicacao = (int(a)* int(b))
-print(multiplicacao)
+print("valor multiplicado é:", multiplicacao)
 
 divisao = (int(a)/ int(b))
-print(divisao)
+print("valor dividido é:", int(divisao))

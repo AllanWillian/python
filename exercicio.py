@@ -1,3 +1,4 @@
+#ATRIBUINDO VALORES A VARIAVEIS
 a = 5
 int(a)
 print ( "O valor da variavel é:" , a );
