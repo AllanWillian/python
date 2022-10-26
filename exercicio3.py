@@ -14,3 +14,9 @@ print("valor multiplicado é:", multiplicacao)
 
 divisao = (int(a)/ int(b))
 print("valor dividido é:", int(divisao))
+
+exponencial = (int(a) % int(b))
+print("valor da exponenciacao é:", exponencial)
+
+potencia = (int(a)** int(b))
+print("valor da pontencia é:", potencia)
